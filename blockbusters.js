@@ -106,7 +106,7 @@ console.log(movies[0].actors[1]);
 // Verwacht antwoord:
 // Martin Balsam
 
-//console.log(movies[movies.length - 1].actors[actors.length - 1])
+console.log(movies[movies.length - 1].actors[movies[movies.length - 1].actors.length - 1])
 
 // ------------------------------------------------------------------------------ //
 // Opdracht 4a: Maak een if-else-statement die het woord 'Uitstekende film!!' logt,
